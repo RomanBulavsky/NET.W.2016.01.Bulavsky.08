@@ -1,0 +1,5 @@
+D:\EPAM\NET.W.2016.01.Bulavsky.08\Task1\bin\Debug\Task1.dll
+D:\EPAM\NET.W.2016.01.Bulavsky.08\Task1\bin\Debug\Task1.pdb
+D:\EPAM\NET.W.2016.01.Bulavsky.08\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+D:\EPAM\NET.W.2016.01.Bulavsky.08\Task1\obj\Debug\Task1.dll
+D:\EPAM\NET.W.2016.01.Bulavsky.08\Task1\obj\Debug\Task1.pdb
